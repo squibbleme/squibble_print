@@ -1,0 +1,1960 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"resour",
+				"resource_id"
+			],
+			[
+				"resource",
+				"resource_class"
+			],
+			[
+				"cach",
+				"cache_key"
+			],
+			[
+				"tx",
+				"tax_deductions"
+			],
+			[
+				"tax",
+				"tax_deductions"
+			],
+			[
+				"counter",
+				"counter_entry"
+			],
+			[
+				"count",
+				"counter_entry"
+			],
+			[
+				"payment",
+				"payment_expected"
+			],
+			[
+				"paym",
+				"payment_receipts"
+			],
+			[
+				"acc",
+				"accounting_years"
+			],
+			[
+				"princi",
+				"principal_id"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"payme",
+				"payment_receipt"
+			],
+			[
+				"paypal_sand",
+				"paypal_sandbox_client_id"
+			],
+			[
+				"portlet",
+				"portlet_title"
+			],
+			[
+				"admin_backend_principal",
+				"admin_backend_principal_module_setting_payment_settings_show"
+			],
+			[
+				"pay",
+				"payment_receipt"
+			],
+			[
+				"pa",
+				"payment_receipts"
+			],
+			[
+				"pym",
+				"payment_receipts"
+			],
+			[
+				"paymen",
+				"payment_id"
+			],
+			[
+				"app",
+				"approval_url"
+			],
+			[
+				"curren",
+				"current_user"
+			],
+			[
+				"curre",
+				"current_user"
+			],
+			[
+				"prin",
+				"principal_slug"
+			],
+			[
+				"credit_",
+				"credit_card_expire_month"
+			],
+			[
+				"background",
+				"background-clip"
+			],
+			[
+				"inc",
+				"incoming_invoices_empty"
+			],
+			[
+				"con",
+				"contracting_partner_address"
+			],
+			[
+				"total",
+				"total_tracked_hours"
+			],
+			[
+				"res",
+				"reset_password_token"
+			],
+			[
+				"password",
+				"password_confirmation"
+			],
+			[
+				"new",
+				"new_password_params"
+			],
+			[
+				"princ",
+				"principal_id"
+			],
+			[
+				"sig",
+				"sign_in"
+			],
+			[
+				"sign_in",
+				"sign_in_params"
+			],
+			[
+				"admin_",
+				"admin_photography"
+			],
+			[
+				"su",
+				"support_use_cases"
+			],
+			[
+				"sup",
+				"subscriptions"
+			],
+			[
+				"requ",
+				"request_information"
+			],
+			[
+				"current",
+				"current_admin_user"
+			],
+			[
+				"reop",
+				"reopen_confirmation"
+			],
+			[
+				"close",
+				"close_confirmation"
+			],
+			[
+				"veri",
+				"verify_confirmation"
+			],
+			[
+				"rev",
+				"resolve_confirmation"
+			],
+			[
+				"stop",
+				"stop_progress_confirmation"
+			],
+			[
+				"start",
+				"start_progress_confirmation"
+			],
+			[
+				"st",
+				"stop_progress"
+			],
+			[
+				"request",
+				"request_id"
+			],
+			[
+				"appli",
+				"Application"
+			],
+			[
+				"en",
+				"end_of_association_chain"
+			],
+			[
+				"task",
+				"task_operation"
+			],
+			[
+				"Resour",
+				"resource_class"
+			],
+			[
+				"applicatio",
+				"application_id"
+			],
+			[
+				"devise_users_work",
+				"devise_users_workshop_sign_ins"
+			],
+			[
+				"create",
+				"create_reversal_confirmation"
+			],
+			[
+				"reset",
+				"reset_confirmation"
+			],
+			[
+				"enter",
+				"enter_confirmation"
+			],
+			[
+				"Zurüc",
+				"zurücksetzen"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"filter",
+				"filter_terms"
+			],
+			[
+				"afte",
+				"after_touch"
+			],
+			[
+				"squib",
+				"squibble_elasticsearch"
+			],
+			[
+				"client",
+				"client_resource_class"
+			],
+			[
+				"op",
+				"operation"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"corres",
+				"correspondences"
+			],
+			[
+				"subject",
+				"subject_class_id"
+			],
+			[
+				"principal",
+				"principal_id"
+			],
+			[
+				"re",
+				"resource_class"
+			],
+			[
+				"resourc",
+				"resource_class"
+			],
+			[
+				"searc",
+				"search_index_attributes"
+			],
+			[
+				"subj",
+				"subject_class"
+			],
+			[
+				"sub",
+				"subject_class"
+			],
+			[
+				"subjec",
+				"subject_class"
+			],
+			[
+				"up",
+				"updated_at"
+			],
+			[
+				"ids",
+				"ids_permitted_params"
+			],
+			[
+				"max",
+				"max_updated_at"
+			],
+			[
+				"disc",
+				"discount_position"
+			],
+			[
+				"discount_",
+				"discount_coupon"
+			],
+			[
+				"discoun",
+				"discount_position"
+			],
+			[
+				"redempt",
+				"redemption"
+			],
+			[
+				"total_",
+				"total_tax_prices"
+			],
+			[
+				"produc",
+				"product2"
+			],
+			[
+				"dis",
+				"distinct"
+			],
+			[
+				"exc",
+				"exception_notification"
+			],
+			[
+				"error",
+				"error_output"
+			],
+			[
+				"rede",
+				"redemption"
+			],
+			[
+				"inva",
+				"invalid_position"
+			],
+			[
+				"inv",
+				"invalid_position"
+			],
+			[
+				"pric",
+				"price_calculation_without_discounts"
+			],
+			[
+				"ass",
+				"association"
+			],
+			[
+				"web",
+				"webshop_product_activations"
+			],
+			[
+				"produ",
+				"product_without_activation"
+			],
+			[
+				"prod",
+				"product_without_activation"
+			],
+			[
+				"frontend",
+				"frontend_translations"
+			],
+			[
+				"cu",
+				"custom_translation_for_principal"
+			],
+			[
+				"main",
+				"main_domain_connected"
+			],
+			[
+				"redem",
+				"redemption"
+			],
+			[
+				"base",
+				"basket_position_id"
+			],
+			[
+				"Discount",
+				"DiscountCoupon"
+			],
+			[
+				"bask",
+				"basket_position"
+			],
+			[
+				"deve",
+				"development_database_name"
+			],
+			[
+				"devel",
+				"development_password"
+			],
+			[
+				"develo",
+				"development_user"
+			],
+			[
+				"squ",
+				"squibble_me_production"
+			],
+			[
+				"mon",
+				"mongo_drop_cmd"
+			],
+			[
+				"tar",
+				"tar_path"
+			],
+			[
+				"databa",
+				"database_name"
+			],
+			[
+				"ta",
+				"tar_path"
+			],
+			[
+				"dump",
+				"dump_cmd"
+			],
+			[
+				"inter",
+				"interface_id"
+			],
+			[
+				"end",
+				"endpoint"
+			],
+			[
+				"param",
+				"param_type"
+			],
+			[
+				"rescu",
+				"rescue_from"
+			],
+			[
+				"D",
+				"DiscountCoupon"
+			],
+			[
+				"class",
+				"class_translations"
+			],
+			[
+				"webs",
+				"webshop_basket_position"
+			],
+			[
+				"redee",
+				"redeem_permitted_params"
+			],
+			[
+				"product",
+				"product_price"
+			],
+			[
+				"basket_",
+				"basket_position_id"
+			],
+			[
+				"baskt",
+				"basket_position_id"
+			],
+			[
+				"clas",
+				"class_translations"
+			],
+			[
+				"reed",
+				"redeem_permitted_params"
+			],
+			[
+				"render",
+				"render_error"
+			],
+			[
+				"webshop",
+				"webshop_discount_coupon_redemption"
+			],
+			[
+				"discount",
+				"discount_coupon"
+			],
+			[
+				"quan",
+				"quantity_limit"
+			],
+			[
+				"uni",
+				"uniqueness"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/helpers/squibble_admin/markup/resource_helper/_default_resource_actions.html.haml",
+			"settings":
+			{
+				"buffer_size": 454,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 2768,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/squibble_admin/version.rb",
+			"settings":
+			{
+				"buffer_size": 46,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/helpers/squibble_admin/markup/button_helper.rb",
+			"settings":
+			{
+				"buffer_size": 1224,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "refre",
+		"selected_items":
+		[
+			[
+				"refre",
+				"Project: Refresh Folders"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Indent JSON"
+			],
+			[
+				"justif",
+				"CSV: Justify columns"
+			],
+			[
+				"jo",
+				"Set Syntax: JSON"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"ju",
+				"CSV: Justify columns"
+			],
+			[
+				"rere",
+				"Package Control: Remove Repository"
+			],
+			[
+				"son",
+				"Set Syntax: JSON"
+			],
+			[
+				"refr",
+				"Project: Refresh Folders"
+			],
+			[
+				"ref",
+				"Project: Refresh Folders"
+			],
+			[
+				"nginx",
+				"Set Syntax: nginx"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"rfre",
+				"Project: Refresh Folders"
+			],
+			[
+				"Prefre",
+				"Project: Refresh Folders"
+			],
+			[
+				"refer",
+				"Project: Refresh Folders"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"rf",
+				"Project: Refresh Folders"
+			],
+			[
+				"puppet",
+				"Set Syntax: Puppet"
+			],
+			[
+				"jus",
+				"CSV: Justify columns"
+			],
+			[
+				"Refre",
+				"Project: Refresh Folders"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"just",
+				"CSV: Justify columns"
+			],
+			[
+				"justi",
+				"CSV: Justify columns"
+			],
+			[
+				"compa",
+				"CSV: Compact columns"
+			],
+			[
+				"",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"jui",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"comp",
+				"CSV: Compact columns"
+			],
+			[
+				"rer",
+				"Project: Refresh Folders"
+			],
+			[
+				"rerfre",
+				"Project: Refresh Folders"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"random",
+				"Random:Url"
+			],
+			[
+				"rfer",
+				"Project: Refresh Folders"
+			],
+			[
+				"rfe",
+				"Project: Refresh Folders"
+			],
+			[
+				"refres",
+				"Project: Refresh Folders"
+			],
+			[
+				"Gem",
+				"View: Toggle Minimap"
+			],
+			[
+				"rfr",
+				"Project: Refresh Folders"
+			],
+			[
+				"refresh",
+				"Project: Refresh Folders"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"yml",
+				"Set Syntax: YAML"
+			],
+			[
+				"seeds",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"yaml",
+				"Pretty YAML: Reformat (Pretty Print) YAML"
+			],
+			[
+				"coffeeScr",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"coffee",
+				"CoffeeToJs: Convert clipboard content"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			]
+		],
+		"width": 488.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Z/squibble/plugins/squibble_admin",
+		"/Z/squibble/plugins/squibble_admin/app",
+		"/Z/squibble/plugins/squibble_admin/app/helpers",
+		"/Z/squibble/plugins/squibble_admin/app/helpers/squibble_admin",
+		"/Z/squibble/plugins/squibble_admin/app/helpers/squibble_admin/admin",
+		"/Z/squibble/plugins/squibble_admin/app/helpers/squibble_admin/admin/markup",
+		"/Z/squibble/plugins/squibble_admin/app/helpers/squibble_admin/markup",
+		"/Z/squibble/plugins/squibble_admin/lib",
+		"/Z/squibble/plugins/squibble_admin/lib/squibble_admin"
+	],
+	"file_history":
+	[
+		"/Z/squibble/plugins/squibble_admin/app/services/squibble_service.rb",
+		"/Z/squibble/plugins/squibble_carrierwave_attributes/app/models/concerns/carrierwave/store_attributes/file.rb",
+		"/Z/squibble/plugins/squibble_admin/app/views/admin/_grid.html.haml",
+		"/Z/squibble/plugins/squibble_admin/app/helpers/squibble_admin/markup/general_helper.rb",
+		"/Z/squibble/plugins/squibble_admin/app/views/admin/index.html.haml",
+		"/Z/squibble/plugins/squibble_admin/lib/squibble_admin/version.rb",
+		"/Z/squibble/plugins/squibble_admin/app/views/layouts/mailer.html.haml",
+		"/Z/squibble/plugins/squibble_admin/README.md",
+		"/Z/squibble/plugins/squibble_mongoid_fields/app/views/admin/_helpers/_promotion_attributes_show.html.haml",
+		"/Z/squibble/plugins/squibble_mongoid_fields/lib/squibble_mongoid_fields/version.rb",
+		"/Z/squibble/plugins/squibble_admin/lib/squibble_admin.rb",
+		"/Z/squibble/plugins/squibble_mongoid_fields/README.md",
+		"/Z/squibble/plugins/squibble_mongoid_fields/app/models/concerns/squibble/promotion_attributes.rb",
+		"/Z/squibble/plugins/squibble_mongoid_fields/app/views/admin/_helpers/_promotion_attributes_form.html.haml",
+		"/Z/squibble/plugins/squibble_admin/app/models/concerns/squibble/promotion_attributes.rb",
+		"/Z/squibble/plugins/squibble_admin/app/views/layouts/shared/admin/_header.html.haml",
+		"/Z/squibble/plugins/squibble_admin/app/views/helpers/squibble_admin/markup/flash_messages_helper/_flash_messages.html.haml",
+		"/Z/squibble/plugins/squibble_admin/app/models/concerns/searchable_model.rb",
+		"/Z/squibble/plugins/squibble_admin/app/controllers/concerns/searchable_controller.rb",
+		"/Z/squibble/plugins/squibble_admin/app/views/admin/_helpers/_preview_show.html.haml",
+		"/Z/squibble/plugins/squibble_admin/app/helpers/squibble_admin/caching_helper.rb",
+		"/Z/squibble/plugins/squibble_admin/app/helpers/squibble_admin/admin/markup/confirmation_helper.rb",
+		"/Z/squibble/plugins/squibble_admin/app/helpers/squibble_admin/markup/format_helper.rb",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/stylesheets/squibble_admin/admin/table.less",
+		"/Z/squibble/plugins/squibble_admin/app/helpers/squibble_admin/markup/portlet_helper.rb",
+		"/Z/squibble/plugins/squibble_admin/app/helpers/squibble_admin/global_helper.rb",
+		"/Z/squibble/plugins/squibble_admin/app/models/concerns/squibble/mongoid/tree/touch_parent.rb",
+		"/Z/squibble/plugins/squibble_admin/app/workers/elasticsearch/indexer_worker.rb",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/stylesheets/squibble_admin/admin/styles.less",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/javascripts/squibble_admin/general/sq-price.coffee",
+		"/Z/squibble/plugins/squibble_admin/app/helpers/squibble_admin/markup/show_helper.rb",
+		"/Z/squibble/plugins/squibble_admin/app/helpers/squibble_admin/markup/flash_messages_helper.rb",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/stylesheets/squibble_admin/admin/index.less",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/stylesheets/squibble_admin/admin/metronic_fixes.less",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/stylesheets/squibble_admin/admin/elements/sq-well-enhanced.less",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/stylesheets/squibble_admin/admin/elements/sq-show-relations.less",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/stylesheets/squibble_admin/admin/elements/sq-show-actions.less",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/stylesheets/squibble_admin/admin/elements/sq-acl-admin-user-list-item.less",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/stylesheets/squibble_admin/admin/form.less",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/stylesheets/squibble_admin/admin/layout.less",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/stylesheets/squibble_admin/general_manifest.css",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/stylesheets/squibble_admin/admin_manifest.css",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/stylesheets/squibble_admin/general/layout.less",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/stylesheets/squibble_admin/general/table.less",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/stylesheets/squibble_admin/general/be_margin_and_padding/margin_padding_grid.less",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/stylesheets/squibble_admin/general/be_margin_and_padding/margin_padding_screensize_dependant.less",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/stylesheets/squibble_admin/general/elements/sq-grid.less",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/javascripts/squibble_admin/admin_manifest.js",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/javascripts/squibble_admin/general_manifest.js",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/javascripts/squibble_admin/general/code-mirror.coffee",
+		"/Z/squibble/plugins/squibble_admin/lib/assets/stylesheets/squibble_admin/admin/show.less",
+		"/Z/squibble/plugins/squibble_admin/app/views/admin/_form.html.haml",
+		"/Z/squibble/plugins/squibble_admin/app/views/admin/_form_actions.html.haml",
+		"/Z/squibble/plugins/squibble_admin/app/views/admin/edit.html.haml",
+		"/Z/squibble/plugins/squibble_admin/app/views/admin/new.html.haml",
+		"/Z/squibble/plugins/squibble_admin/app/views/admin/_table.html.haml",
+		"/Z/squibble/plugins/squibble_admin/app/views/admin/_show_dashboard.html.haml",
+		"/Z/squibble/plugins/squibble_admin/app/views/admin/_index_filter_list_item.html.haml",
+		"/Z/squibble/plugins/squibble_admin/app/views/admin/show.html.haml",
+		"/Z/squibble/plugins/squibble_admin/app/controllers/concerns/squibble/meta_keyword_attributes.rb",
+		"/Z/squibble/plugins/squibble_admin/app/uploaders/squibble_base_uploader.rb",
+		"/Z/squibble/plugins/squibble_admin/app/controllers/concerns/squibble/landing_page_attributes.rb",
+		"/Z/squibble/plugins/squibble_admin/app/views/helpers/squibble_admin/markup/portlet_helper/_portlet_form_additional_field_landing_page.html.haml",
+		"/Z/squibble/plugins/squibble_admin/Gemfile",
+		"/Z/squibble/plugins/squibble_admin/pkg/squibble_admin-0.0.1.gem",
+		"/Z/squibble/plugins/squibble_admin/app/assets/stylesheets/squibble_admin/general/password.less",
+		"/Z/squibble/plugins/squibble_admin/app/assets/stylesheets/squibble_admin/general/table-tiny.less",
+		"/Z/krolop-gerst/www-krolop-gerst-com/app/assets/stylesheets/general/layout.less",
+		"/Z/squibble/plugins/squibble_admin/squibble_admin.gemspec",
+		"/Z/krolop-gerst/www-krolop-gerst-com/app/views/admin/_form_actions.html.haml",
+		"/Z/krolop-gerst/www-krolop-gerst-com/app/workers/elasticsearch/tracking_worker.rb",
+		"/Z/squibble/plugins/squibble_admin/app/helpers/squibble_admin/resource_helper.rb",
+		"/Z/squibble/plugins/squibble_admin/app/views/helpers/squibble_admin/markup/general_helper/_async_background_processing.html.haml",
+		"/Z/squibble/plugins/squibble_admin/app/helpers/squibble_admin/markup/css_classes_helper.rb",
+		"/Z/squibble/plugins/squibble_admin/app/helpers/squibble_admin/markup/google_helper.rb",
+		"/Z/squibble/plugins/squibble_admin/app/services/csv_service.rb",
+		"/Z/squibble/plugins/squibble_admin/app/helpers/squibble_admin/markup/color_helper.rb",
+		"/Z/squibble/plugins/squibble_admin/app/helpers/squibble_admin/markup/button_helper.rb",
+		"/Z/squibble/plugins/squibble_admin/app/views/helpers/squibble_admin/markup/general_helper/_async_background_processing_icon.html.haml",
+		"/Z/squibble/plugins/squibble_admin/app/views/helpers/squibble_admin/markup/general_helper/_address_tag.html.haml",
+		"/Z/squibble/plugins/squibble_admin/app/views/helpers/squibble_admin/markup/google_helper/_google_map_for_address.html.haml",
+		"/Z/squibble/plugins/squibble_admin/app/views/helpers/squibble_admin/markup/general_helper/_show_timestamps.html.haml",
+		"/Z/squibble/plugins/squibble_admin/app/views/helpers/squibble_admin/markup/button_helper/_show_button.html.haml",
+		"/Z/squibble/plugins/squibble_admin/app/views/helpers/squibble_admin/markup/button_helper/_edit_button.html.haml",
+		"/Z/squibble/plugins/squibble_admin/app/views/helpers/squibble_admin/markup/button_helper/_destroy_button.html.haml",
+		"/Z/squibble/plugins/squibble_admin/app/views/helpers/squibble_admin/markup/button_helper/_clone_button.html.haml",
+		"/Z/squibble/squibble-2016/Gemfile",
+		"/Z/squibble/squibble-2016/app/models/business/product.rb",
+		"/Z/squibble/squibble-2016/app/views/api/v1/business/product/intangible_goods/show.json.rabl",
+		"/Z/squibble/squibble-2016/app/views/api/v1/business/product/tangible_goods/show.json.rabl",
+		"/Z/squibble/squibble-2016/app/views/api/v1/business/products/show.json.rabl",
+		"/Z/squibble/squibble-2016/app/controllers/admin/business/product/tangible_goods_controller.rb",
+		"/Z/squibble/squibble-2016/app/controllers/admin/business/product/intangible_goods_controller.rb",
+		"/Z/squibble/squibble-2016/app/views/admin/business/product/_form_general_webshop.html.haml",
+		"/Z/squibble/squibble-2016/app/views/admin/business/product/intangible_goods/_form_general.html.haml",
+		"/Z/squibble/squibble-2016/app/views/admin/business/product/tangible_goods/_form_general.html.haml",
+		"/Z/squibble/squibble-2016/app/controllers/admin/business/product_controller.rb",
+		"/Z/squibble/squibble-2016/app/helpers/collection/business_helper.rb",
+		"/Z/squibble/squibble-2016/app/views/admin/business/product/_show_general.html.haml",
+		"/Z/squibble/squibble-2016/config/locales/models/de.business.attributes.yml",
+		"/Z/squibble/squibble-2016/config/locales/routes/de.routes.business.yml",
+		"/Z/squibble/squibble-2016/app/models/default/business/product.rb",
+		"/Z/squibble/squibble-2016/app/uploaders/photography/gallery/preview_uploader.rb",
+		"/Z/squibble/squibble-2016/app/controllers/api/v1/general/sync_controller.rb",
+		"/Z/squibble/squibble-2016/app/models/workshop/sign_in.rb",
+		"/Z/squibble/squibble-2016/app/models/workshop/speaker.rb",
+		"/Z/squibble/squibble-2016/app/models/workshop/partner.rb",
+		"/Z/squibble/squibble-2016/app/models/workshop/event.rb",
+		"/Z/squibble/squibble-2016/app/models/workshop/clearing.rb",
+		"/Z/squibble/squibble-2016/app/models/workshop/category.rb",
+		"/Z/squibble/squibble-2016/app/models/workshop/clearing/assignment.rb",
+		"/Z/squibble/squibble-2016/config/sidekiq.yml",
+		"/Z/squibble/squibble-2016/config/initializers/sidekiq.rb",
+		"/Z/squibble/squibble-2016/app/helpers/global/markup/google_helper.rb",
+		"/Z/squibble/squibble-2016/app/helpers/global/markup/show_helper.rb",
+		"/Z/squibble/squibble-2016/app/views/admin/backend/contracts/_show_general.html.haml",
+		"/Z/squibble/squibble-2016/app/models/business/product_classification.rb",
+		"/Z/squibble/squibble-2016/app/controllers/admin/workshop/events_controller.rb",
+		"/Z/squibble/squibble-2016/app/models/photography/image.rb",
+		"/Z/squibble/squibble-2016/app/views/api/v1/backend/acl/workshop/sign_ins/index.json.rabl",
+		"/Z/squibble/squibble-2016/app/views/print/business/logbook/entries/_table_row_tiny.html.haml",
+		"/Z/squibble/squibble-2016/app/views/print/business/payment_receipts/_payments_table_head.html.haml",
+		"/Z/squibble/squibble-2016/config/routes.rb",
+		"/Z/squibble/squibble-2016/app/views/print/business/outgoing_payments/_table_overview.html.haml",
+		"/Z/squibble/squibble-2016/app/views/print/business/outgoing_payments/_payments_table_head.html.haml",
+		"/Z/squibble/squibble-2016/app/controllers/print/business/accounting_records_controller.rb",
+		"/Z/squibble/squibble-2016/app/controllers/print/business/account_assignments_controller.rb",
+		"/Z/squibble/squibble-2016/db/seeds.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 327.0,
+		"where_history":
+		[
+			"Z:\\squibble\\plugins\\squibble_admin\\app\\helpers\\squibble_admin",
+			"Z:\\squibble\\plugins\\squibble_admin\\app\\helpers",
+			"Z:\\squibble\\plugins\\squibble_admin\\app\\helpers\\squibble_admin\\markup",
+			"Z:\\squibble\\squibble-2016\\app\\controllers",
+			"Z:\\squibble\\squibble-2016\\app\\operations\\business\\accounting_year",
+			"Z:\\squibble\\squibble-2016\\app\\assets\\stylesheets\\admin",
+			"Z:\\squibble\\squibble-2016\\app\\controllers\\admin",
+			"Z:\\squibble\\squibble-2016\\app\\views\\print",
+			"Z:\\squibble\\squibble-2016\\app\\helpers",
+			"Z:\\squibble\\squibble-2016\\app\\views\\print",
+			"Z:\\squibble\\squibble-2016\\app\\controllers",
+			"Z:\\squibble\\squibble-2016\\app\\views\\admin",
+			"Z:\\squibble\\squibble-2016\\app",
+			"Z:\\squibble\\squibble-2016\\config\\locales",
+			"Z:\\squibble\\squibble-2016\\config\\locales\\models",
+			"Z:\\squibble\\squibble-2016\\app\\models",
+			"Z:\\squibble\\squibble-2016\\app\\operations\\backend\\principal\\defaults",
+			"Z:\\squibble\\squibble-2016\\app\\operations\\backend\\principal\\defaults\\business",
+			"Z:\\squibble\\squibble-2016\\app\\models",
+			"Z:\\squibble\\squibble-2016\\spec\\models",
+			"Z:\\squibble\\squibble-2016\\app\\models",
+			"Z:\\squibble\\squibble-2016\\app\\models\\webshop",
+			"Z:\\squibble\\squibble-2016\\app\\models",
+			"Z:\\squibble\\squibble-2016\\app\\observers",
+			"Z:\\squibble\\squibble-2016\\app",
+			"Z:\\squibble\\squibble-2016\\app\\models\\business",
+			"Z:\\squibble\\squibble-2016\\app\\models\\webshop",
+			"Z:\\squibble\\squibble-2016\\app\\models",
+			"Z:\\squibble\\squibble-2016\\app\\views\\admin",
+			"Z:\\squibble\\squibble-2016\\app\\models",
+			"Z:\\squibble\\squibble-2016\\app\\assets\\javascripts\\admin",
+			"Z:\\squibble\\squibble-2016\\app\\assets\\stylesheets",
+			"Z:\\squibble\\squibble-2016\\config\\initializers",
+			"Z:\\squibble\\squibble-2016\\app\\models",
+			"Z:\\squibble\\squibble-2016\\app\\views\\admin",
+			"Z:\\squibble\\squibble-2016\\app\\workers",
+			"Z:\\squibble-2016\\app\\helpers",
+			"Z:\\squibble-2016\\app\\models\\default",
+			"/Volumes/ple/squibble-2016/app/views/admin",
+			"/Volumes/ple/backend/app/models",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"name",
+			"callback_method",
+			"sq_distance",
+			"a",
+			"show_dashboard_custom_link",
+			"portlet_form_additional_field_landing_page",
+			"landing_",
+			"ids_permitted_params",
+			"updated_at",
+			"_handle_updated_at",
+			":print",
+			"booking",
+			"_amount_tax",
+			"quarterly_statement_tax_bookings",
+			"counter_entry",
+			"record.principal_id",
+			"product_price",
+			"@resource",
+			"_build_reversal",
+			"date",
+			"AccountingYear",
+			"accounting_year",
+			"outstanding_am",
+			"payments",
+			"payments.",
+			"register_partial_pay",
+			"cancelled",
+			"redirect_to if",
+			"translation",
+			"resource._id",
+			"outsta",
+			"invoices:",
+			"completed?",
+			"completed",
+			"display-block",
+			"outstanding_balance",
+			"sq_payment",
+			"payment",
+			"accounts",
+			", only: [:index, :show]",
+			"accounts",
+			"payments",
+			"payment:",
+			"payment",
+			"reference_id",
+			"description",
+			"devise",
+			"6",
+			"Nettopreis",
+			"Netto Preis",
+			"incoming_invoices",
+			":print",
+			"contracts",
+			"def download",
+			"contracts",
+			"    %p\n      Stand: #{sq_time Time.zone.now}",
+			"      %p\n        Stand: #{sq_time Time.zone.now}",
+			"        %p\n          Stand: #{sq_time Time.zone.now}",
+			"sq_time",
+			"    %header\n      = print_business_header current_principal\n\n      .address-container\n        .address\n          = print_business_sender current_principal\n          = current_address_tag",
+			"      %header\n        = print_business_header current_principal\n\n        .address-container\n          .address\n            = print_business_sender current_principal\n            = current_address_tag",
+			"_handle_pagination",
+			"send_reset_password_instructions",
+			"def render_error",
+			"render_error",
+			"required_attributes",
+			"users",
+			"current_principal",
+			"Acl::User",
+			"check_payments",
+			"photography",
+			"_short:",
+			"empty",
+			"total_sales",
+			"navi",
+			"Meta",
+			"    =",
+			"Ticket::Reque",
+			"Ticket::",
+			"_handle_action",
+			"requests",
+			"__handle_create_success",
+			"__after_create_collection_path",
+			"collection_path",
+			"basket",
+			"_mongoid_errors_document_not_found",
+			"render_error",
+			"sign_up",
+			"management",
+			"principal.",
+			":backend",
+			"baskets",
+			"help",
+			"default",
+			"principal_slug",
+			"%hr/",
+			"= show.attribute :created_at do\n  = sq_time resource.created_at\n= show.attribute :updated_at do\n  = sq_time resource.updated_at",
+			"  = show.attribute :created_at do\n    = sq_time resource.created_at\n  = show.attribute :updated_at do\n    = sq_time resource.updated_at",
+			"    = show.attribute :created_at do\n      = sq_time resource.created_at\n    = show.attribute :updated_at do\n      = sq_time resource.updated_at",
+			"      = show.attribute :created_at do\n        = sq_time resource.created_at\n      = show.attribute :updated_at do\n        = sq_time resource.updated_at",
+			"          = show.attribute :created_at do\n            = sq_time resource.created_at\n          = show.attribute :updated_at do\n            = sq_time resource.updated_at",
+			"        = show.attribute :created_at do\n          = sq_time resource.created_at\n        = show.attribute :updated_at do\n          = sq_time resource.updated_at",
+			"  = show.attribute :created_at do\n    = sq_time resource.created_at\n  = show.attribute :updated_at do\n    = sq_time resource.updated_at",
+			"is_public_icon",
+			"StringLiterals",
+			"cache",
+			"tasks",
+			"/project:",
+			"project:",
+			"Business::task",
+			"                    .",
+			"label",
+			"completed",
+			"projects",
+			"attributes",
+			"Basket",
+			"backend_application_id",
+			"_presence_of_foreign_id_and_application_id",
+			"contacts",
+			"tax_type",
+			"\n            format: {",
+			"current_principal",
+			"backend_application",
+			"_presence_of_foreign_id_and_application_id",
+			"application_id",
+			"receipt_download_file_name",
+			"touch",
+			"file"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"principal.id",
+			"resource",
+			"resource.id",
+			"resource",
+			"    = version_printed_at",
+			"      = version_printed_at",
+			"        = version_printed_at",
+			"    = principal_address_header",
+			"      = principal_address_header",
+			"current_principal.",
+			"%hr",
+			"= show_timestamps(show)",
+			"  = show_timestamps(show)",
+			"    = show_timestamps(show)",
+			"      = show_timestamps(show)",
+			"          = show_timestamps(show)",
+			"        = show_timestamps(show)",
+			"principal_id: resource.id",
+			"resource",
+			"principal",
+			"principal_id: principal.id",
+			"target_resource_class",
+			"target = _converts_to(default_resource)",
+			"_default_collection.each do |default_resource|",
+			".new(\n#   principal\n# )",
+			"processes :principal",
+			"{ country_id: principal.country_id },",
+			"fail",
+			"resource",
+			"include SearchableModel",
+			"resource",
+			"\"principal_id\"",
+			"production_database_name",
+			"development_database_name",
+			"database_name_production",
+			"resource.",
+			"portrait",
+			"md-",
+			"lg-",
+			"resource.",
+			"[Land: #{(country.present? ? country.key : '---')}]",
+			"md-",
+			"h5",
+			"h6",
+			"h5",
+			"StoreService.log(",
+			"Squibble",
+			"",
+			"'",
+			"",
+			"$scope.",
+			"",
+			"$scope.",
+			"",
+			"disabled: !f.object.new_record?",
+			"cle-dev-backend",
+			"cle.app.dev.squibble.me"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/helpers/squibble_admin/markup/resource_helper/_default_resource_actions.html.haml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								454,
+								454
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2768,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2767,
+								2767
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1140.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/squibble_admin/version.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/helpers/squibble_admin/markup/button_helper.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								929,
+								929
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 669.0
+	},
+	"pinned_build_system": "",
+	"project": "squibble_admin.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"helpers/squibble_admin/markup/resource_helper/default_resource_actions",
+				"squibble_admin\\app\\views\\helpers\\squibble_admin\\markup\\resource_helper\\_default_resource_actions.html.haml"
+			],
+			[
+				"readme",
+				"squibble_admin\\README.md"
+			],
+			[
+				"file",
+				"squibble_carrierwave_attributes\\app\\models\\concerns\\carrierwave\\store_attributes\\file.rb"
+			],
+			[
+				"version",
+				"squibble_admin\\lib\\squibble_admin\\version.rb"
+			],
+			[
+				"lib.",
+				"squibble_admin\\lib\\squibble_admin.rb"
+			],
+			[
+				"squibble_serv",
+				"squibble_admin\\app\\services\\squibble_service.rb"
+			],
+			[
+				"flash_messages",
+				"squibble_admin\\app\\views\\helpers\\squibble_admin\\markup\\flash_messages_helper\\_flash_messages.html.haml"
+			],
+			[
+				"preview_show",
+				"squibble_admin\\app\\views\\admin\\_helpers\\_preview_show.html.haml"
+			],
+			[
+				"sq_price",
+				"lib\\assets\\javascripts\\squibble_admin\\general\\sq-price.coffee"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"portlet_hel",
+				"app\\helpers\\squibble_admin\\markup\\portlet_helper.rb"
+			],
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"gemf",
+				"squibble-2016\\Gemfile"
+			],
+			[
+				"product.rb",
+				"app\\models\\business\\product.rb"
+			],
+			[
+				"business.attr",
+				"config\\locales\\models\\de.business.attributes.yml"
+			],
+			[
+				"business_he",
+				"app\\helpers\\collection\\business_helper.rb"
+			],
+			[
+				"routesbusiness.yml",
+				"config\\locales\\routes\\de.routes.business.yml"
+			],
+			[
+				"business/product.",
+				"app\\models\\business\\product.rb"
+			],
+			[
+				"product",
+				"app\\models\\default\\business\\product.rb"
+			],
+			[
+				"sync_contr",
+				"app\\controllers\\api\\v1\\general\\sync_controller.rb"
+			],
+			[
+				"photographyupda",
+				"app\\uploaders\\photography\\gallery\\preview_uploader.rb"
+			],
+			[
+				"event.rb",
+				"app\\models\\workshop\\event.rb"
+			],
+			[
+				"sidekiq.",
+				"config\\sidekiq.yml"
+			],
+			[
+				"sideki.rb",
+				"config\\initializers\\sidekiq.rb"
+			],
+			[
+				"photographyimage.rb",
+				"app\\models\\photography\\image.rb"
+			],
+			[
+				"adminworkshopevents_contr",
+				"app\\controllers\\admin\\workshop\\events_controller.rb"
+			],
+			[
+				"contractsshow_ge",
+				"app\\views\\admin\\backend\\contracts\\_show_general.html.haml"
+			],
+			[
+				"print/business/logbook/entries/_table_row_tiny.html.haml",
+				"app\\views\\print\\business\\logbook\\entries\\_table_row_tiny.html.haml"
+			],
+			[
+				"print/business/outgoing_payments/payments_table_head",
+				"app\\views\\print\\business\\outgoing_payments\\_payments_table_head.html.haml"
+			],
+			[
+				"print/business/outgoing_payments/table_overview",
+				"app\\views\\print\\business\\outgoing_payments\\_table_overview.html.haml"
+			],
+			[
+				"print/business/payment_receipts/payments_table_head",
+				"app\\views\\print\\business\\payment_receipts\\_payments_table_head.html.haml"
+			],
+			[
+				"routes",
+				"config\\routes.rb"
+			],
+			[
+				"printaccount_assi",
+				"app\\controllers\\print\\business\\account_assignments_controller.rb"
+			],
+			[
+				"accounting_re",
+				"app\\models\\business\\accounting_record.rb"
+			],
+			[
+				"accounting_record.rb",
+				"app\\models\\business\\accounting_record.rb"
+			],
+			[
+				"printaccounts_contr",
+				"app\\controllers\\print\\business\\accounts_controller.rb"
+			],
+			[
+				"printtaxesquarter",
+				"app\\views\\print\\business\\taxes\\quarter.html.haml"
+			],
+			[
+				"printaccountsshow",
+				"app\\views\\print\\business\\accounts\\_show.html.haml"
+			],
+			[
+				"printtax_formsqua",
+				"app\\views\\print\\business\\tax_forms\\quarter.html.haml"
+			],
+			[
+				"printtax_forms_contr",
+				"app\\controllers\\print\\business\\tax_forms_controller.rb"
+			],
+			[
+				"routesprint",
+				"config\\locales\\routes\\de.routes.print.yml"
+			],
+			[
+				"workshopcategory.rb",
+				"app\\models\\workshop\\category.rb"
+			],
+			[
+				"productclassobs",
+				"app\\observers\\business_product_classification_observer.rb"
+			],
+			[
+				"workshopcategoryobserver",
+				"app\\observers\\workshop_category_observer.rb"
+			],
+			[
+				"product_classobser",
+				"app\\observers\\business_product_classification_observer.rb"
+			],
+			[
+				"seeds",
+				"db\\seeds.rb"
+			],
+			[
+				"bullet",
+				"config\\initializers\\bullet.rb"
+			],
+			[
+				"admintax_formfields_contr",
+				"app\\controllers\\admin\\business\\tax_form\\fields_controller.rb"
+			],
+			[
+				"printtaxes_contr",
+				"app\\controllers\\print\\business\\taxes_controller.rb"
+			],
+			[
+				"accounting_r",
+				"app\\models\\business\\accounting_record.rb"
+			],
+			[
+				"accounting_record",
+				"app\\observers\\business_accounting_record_observer.rb"
+			],
+			[
+				"taxformfield.rb",
+				"app\\models\\business\\tax_form\\field.rb"
+			],
+			[
+				"two_nine_six",
+				"app\\operations\\migrate\\issue_two_nine_six_operation.rb"
+			],
+			[
+				"printtax_forms",
+				"app\\controllers\\print\\business\\tax_forms_controller.rb"
+			],
+			[
+				"taxformfiel",
+				"app\\models\\business\\tax_form\\field.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"printaccountingrecordstable_row",
+				"app\\views\\print\\business\\accounting_records\\_table_row.html.haml"
+			],
+			[
+				"accounting",
+				"app\\models\\business\\accounting_record.rb"
+			],
+			[
+				"tax_type_quarter",
+				"app\\views\\print\\business\\taxes\\_tax_type_quarter.html.haml"
+			],
+			[
+				"printtaxesquarter.html",
+				"app\\views\\print\\business\\taxes\\quarter.html.haml"
+			],
+			[
+				"tax.rb",
+				"app\\models\\business\\tax.rb"
+			],
+			[
+				"accounting_rec",
+				"app\\models\\business\\accounting_record.rb"
+			],
+			[
+				"printtaxesqua",
+				"app\\views\\print\\business\\taxes\\quarter.html.haml"
+			],
+			[
+				"printaccounting_recordsindex",
+				"app\\views\\print\\business\\accounting_records\\index.html.haml"
+			],
+			[
+				"accounting_recordobse",
+				"app\\observers\\business_accounting_record_observer.rb"
+			],
+			[
+				"routesbusiness",
+				"config\\locales\\routes\\de.routes.business.yml"
+			],
+			[
+				"adminaccounting_records_contr",
+				"app\\controllers\\admin\\business\\accounting_records_controller.rb"
+			],
+			[
+				"two_nine_",
+				"app\\operations\\migrate\\issue_two_nine_six_operation.rb"
+			],
+			[
+				"accountign_rec",
+				"app\\models\\business\\accounting_record.rb"
+			],
+			[
+				"printbusinessaccounts_contr",
+				"app\\controllers\\print\\business\\accounts_controller.rb"
+			],
+			[
+				"printbackendaccounts_contr",
+				"app\\controllers\\print\\backend\\email\\accounts_controller.rb"
+			],
+			[
+				"product_classi",
+				"app\\models\\business\\product_classification.rb"
+			],
+			[
+				"printproduct_class",
+				"app\\controllers\\print\\business\\product_classifications_controller.rb"
+			],
+			[
+				"accountclass",
+				"app\\models\\business\\account_classification.rb"
+			],
+			[
+				"printaccounts_code",
+				"app\\controllers\\print\\business\\accounts_code_controller.rb"
+			],
+			[
+				"ordercreate_rever",
+				"app\\operations\\business\\order\\create_reversal_operation.rb"
+			],
+			[
+				"invoice.rb",
+				"app\\models\\business\\invoice.rb"
+			],
+			[
+				"admin_contr",
+				"app\\controllers\\admin_controller.rb"
+			],
+			[
+				"dashboard",
+				"app\\views\\admin\\dashboard.html.haml"
+			],
+			[
+				"invoicereversal",
+				"app\\models\\business\\invoice\\reversal.rb"
+			],
+			[
+				"price.rb",
+				"app\\models\\business\\price.rb"
+			],
+			[
+				"orderposition.rb",
+				"app\\models\\business\\order\\position.rb"
+			],
+			[
+				"counter_entry",
+				"app\\operations\\business\\accounting_record\\build_counter_entry_operation.rb"
+			],
+			[
+				"build_countre",
+				"app\\operations\\business\\accounting_record\\build_counter_entry_operation.rb"
+			],
+			[
+				"invoicecreate_reversal_",
+				"app\\operations\\business\\invoice\\create_reversal_operation.rb"
+			],
+			[
+				"invoicecreate_rev",
+				"app\\operations\\business\\invoice\\create_reversal_operation.rb"
+			],
+			[
+				"invoicecreate_",
+				"app\\operations\\business\\invoice\\create_reversal_operation.rb"
+			],
+			[
+				"create_reversal_ope",
+				"app\\operations\\business\\order\\create_reversal_operation.rb"
+			],
+			[
+				"orderpositioncacl",
+				"app\\operations\\business\\order\\position\\calculate_price_operation.rb"
+			],
+			[
+				"orderworker",
+				"app\\workers\\business\\order\\calculate_price_worker.rb"
+			],
+			[
+				"ordercalculate",
+				"app\\operations\\business\\order\\calculate_price_operation.rb"
+			],
+			[
+				"orderpositoin.rb",
+				"app\\models\\business\\order\\position.rb"
+			],
+			[
+				"business.att",
+				"config\\locales\\models\\de.business.attributes.yml"
+			],
+			[
+				"invoicesshowge",
+				"app\\views\\admin\\business\\invoices\\_show_general.html.haml"
+			],
+			[
+				"account.rb",
+				"app\\models\\business\\account.rb"
+			],
+			[
+				"invoicereversal.rb",
+				"app\\models\\business\\invoice\\reversal.rb"
+			],
+			[
+				"payment_receipt.rb",
+				"app\\models\\business\\payment_receipt.rb"
+			],
+			[
+				"payments_contr",
+				"app\\controllers\\admin\\business\\payments_controller.rb"
+			],
+			[
+				"print/business/invoices/table_head",
+				"app\\views\\print\\business\\invoices\\_table_head.html.haml"
+			],
+			[
+				"print/business/invoices/table_row",
+				"app\\views\\print\\business\\invoices\\_table_row.html.haml"
+			],
+			[
+				"principal",
+				"app\\models\\backend\\principal.rb"
+			],
+			[
+				"accounting_year.rb",
+				"app\\models\\business\\accounting_year.rb"
+			],
+			[
+				"accountingyearsshow_general_pri",
+				"app\\views\\admin\\business\\accounting_years\\_show_general_print.html.haml"
+			],
+			[
+				"accountingyearsshow_ge",
+				"app\\views\\admin\\business\\accounting_years\\_show_general.html.haml"
+			],
+			[
+				"client.r",
+				"app\\models\\business\\partner\\client.rb"
+			],
+			[
+				"printproducts_contr",
+				"app\\controllers\\print\\business\\products_controller.rb"
+			],
+			[
+				"met",
+				"config\\initializers\\meta_tags.rb"
+			],
+			[
+				"printincoinvoices_contr",
+				"app\\controllers\\print\\business\\incoming_invoices_controller.rb"
+			],
+			[
+				"printemailaccounts_",
+				"app\\controllers\\print\\backend\\email\\accounts_controller.rb"
+			],
+			[
+				"invoicedecoa",
+				"app\\decorators\\business\\invoice_decorator.rb"
+			],
+			[
+				"module_decora",
+				"app\\decorators\\backend\\module_decorator.rb"
+			],
+			[
+				"invoicestable_row",
+				"app\\views\\admin\\business\\invoices\\_table_row.html.haml"
+			],
+			[
+				"backendmodulestable_row",
+				"app\\views\\admin\\backend\\modules\\_table_row.html.haml"
+			],
+			[
+				"printmodules_contr",
+				"app\\controllers\\print\\backend\\modules_controller.rb"
+			],
+			[
+				"printbackendprincipals_contr",
+				"app\\controllers\\print\\backend\\principals_controller.rb"
+			],
+			[
+				"frontend_contr",
+				"app\\controllers\\frontend_controller.rb"
+			],
+			[
+				"changelogentriesshow",
+				"app\\views\\frontend\\changelog\\entries\\show.html.haml"
+			],
+			[
+				"haml",
+				"config\\initializers\\haml.rb"
+			],
+			[
+				"two_n",
+				"app\\operations\\migrate\\issue_two_nine_one_operation.rb"
+			],
+			[
+				"ticketrequest",
+				"app\\models\\ticket\\request.rb"
+			],
+			[
+				"application_contr",
+				"app\\controllers\\application_controller.rb"
+			],
+			[
+				"invoicedecorat",
+				"app\\decorators\\business\\invoice_decorator.rb"
+			],
+			[
+				"business_settn",
+				"app\\models\\backend\\principal\\module_setting\\business_setting.rb"
+			],
+			[
+				"principal.",
+				"app\\models\\backend\\principal.rb"
+			],
+			[
+				"routesdevise",
+				"config\\locales\\routes\\de.routes.devise.yml"
+			],
+			[
+				"class_helper",
+				"app\\helpers\\global\\class_helper.rb"
+			],
+			[
+				"modulesettingbusine",
+				"app\\models\\backend\\principal\\module_setting\\business_setting.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 816.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 385.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
