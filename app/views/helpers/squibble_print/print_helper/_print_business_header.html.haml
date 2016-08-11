@@ -1,0 +1,9 @@
+-#
+  Dieser Header beinhaltet das Standard Logo eines
+  Mandanten beziehungsweise den "regulären Aufbau" um einen
+  gleichmässigen Print Header zu gewährleisten.
+
+- cache ['helpers-print-print-business-header', principal] do
+  .row.business-print-header
+    .col-xs-4.col-xs-offset-8
+      = image_tag( principal.logo, class: 'img-responsive logo', alt: principal.name, title: principal.name )

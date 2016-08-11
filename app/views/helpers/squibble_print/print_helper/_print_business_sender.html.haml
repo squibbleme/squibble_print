@@ -1,0 +1,15 @@
+- cache ['helpers/squibble_print/print/print_business_sender', resource] do
+  %ul.list-inline#sender
+    - if resource.is_a? Backend::Principal
+      %li= resource.company.name
+      %li= resource.company.street
+      %li #{resource.company.zip_code} #{resource.company.town}
+
+    - elsif resource.is_a? Address
+      %li= resource.company_name
+      %li= resource.street
+      %li #{resource.zip_code} #{resource.town}
+
+    - else
+      %li
+        %code passed an invalid :resource

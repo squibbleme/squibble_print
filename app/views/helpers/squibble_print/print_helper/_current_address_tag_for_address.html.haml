@@ -1,0 +1,18 @@
+- cache ['helpers/squibble_print/print/current_address_tag_for_address', address] do
+  %address
+    - if address.company_name.present?
+      %strong= address.company_name
+    - if address.company_name.present? && address.firstname.present? && address.lastname.present?
+      %br/
+    - if address.firstname.present? && address.lastname.present?
+      #{address.firstname} #{address.lastname}
+    %br/
+    = address.street
+
+    - if address.additional_street_information.present?
+      %br/
+      #{address.additional_street_information}
+
+    %br/
+    = address.country if address.country.present?
+    #{address.zip_code} #{address.town}

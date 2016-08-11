@@ -1,0 +1,37 @@
+!!! 5
+%html{ lang: I18n.locale.to_s }
+  %head
+    = csrf_meta_tags
+    = display_meta_tags
+
+    - cache [ :print, :meta, current_principal ] do
+      = render 'favicon'
+      %meta{content: 'text/html; charset=utf-8', 'http-equiv' => 'Content-Type'}
+      %meta{content: 'IE=edge', 'http-equiv' => 'X-UA-Compatible'}
+      %meta{content: 'width=device-width, initial-scale=1', name: 'viewport'}
+
+      -# ple@2015-08-26:
+      -# Ausgabe der Währung des aktuellen Mandanten für
+      -# die Formatierung von Preisen über <sq-price value=""></sq-price>
+      %meta{ name: 'sq-current-principal-currency-unit', content: current_principal.currency.unit }
+
+    = stylesheet_link_tag :print, media: :all, :'data-turbolinks-track' => true
+
+    = javascript_include_tag :general, :'data-turbolinks-track' => true
+    = javascript_include_tag :print, :'data-turbolinks-track' => true
+
+    - cache [ :admin, :custom_styles, current_principal, current_font ] do
+      -# Einbinden der Schriftart
+      -#
+      :css
+        @import url(#{current_font.link_href});
+        body {
+          font-family: #{current_font.label}, #{current_font.category};
+        }
+
+        #{current_principal.module_setting_print.additional_styles}
+
+%body{ class: ( current_principal.module_setting_print.observation_window == :right ? 'observation-window-right' : 'observation-window-left' ) }
+
+  .container
+    = yield

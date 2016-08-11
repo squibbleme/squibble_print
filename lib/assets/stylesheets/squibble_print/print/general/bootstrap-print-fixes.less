@@ -1,0 +1,154 @@
+@import "../custom_bootstrap/custom_import.less";
+@import 'lesshat/build/lesshat';
+
+@media print {
+  a[href]:after {
+    content: none !important;
+  }
+}
+
+// FIX: Regulär werden dl.dl-horizontal nur für grosse
+// Displays verwendet.
+dl.dl-horizontal {
+  dt {
+    float: left;
+    width: 160px;
+    clear: left;
+    text-align: right;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+    &.text-left {
+      text-align: left;
+    }
+  }
+  dd {
+    margin-left: 180px;
+  }
+}
+
+// Hinzufügen der Möglichkeit zur Darstellung von
+// dl Elementen (rechtsbündig)
+dl.dl-right {
+  dt, dd {
+    width: 100%;
+    text-align: right;
+  }
+
+  dd {
+    margin-bottom: 5px;
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.margin-top-0 {
+  margin-top: 0;
+}
+
+.margin-bottom-lg {
+  margin-bottom: @grid-gutter-width;
+}
+
+
+/* Progress Bar Fixes (Hintergrundfarbe) */
+.progress{
+  background-color: @progress-bg !important;
+
+  @media print {
+    & > div {
+      color: white !important;
+    }
+  }
+
+  &.progress-bar-success {
+    background-color: @progress-bar-success-bg !important;
+  }
+
+  &.progress-bar-warning {
+    background-color: @progress-bar-warning-bg !important;
+  }
+
+  &.progress-bar-danger {
+    background-color: @progress-bar-danger-bg !important;
+  }
+
+  &.progress-bar-info {
+    background-color: @progress-bar-info-bg !important;
+  }
+}
+
+.progress, .progress > .progress-bar {
+    display: block !important;
+    -webkit-print-color-adjust: exact !important;
+
+    box-shadow: inset 0 0 !important;
+    -webkit-box-shadow: inset 0 0 !important;
+}
+
+
+table.table {
+  .progress {
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+// Label
+// Hintergrundfarbe wird nicht dargestellt
+.label {
+  background-color: @label-default-bg !important;
+  display: block !important;
+  -webkit-print-color-adjust: exact !important;
+  .box-shadow(inset 0 0) !important;
+
+  border: none !important;
+
+  &.label-default {
+    color: white !important;
+  }
+
+  &.label-primary {
+    background-color: @label-primary-bg !important;
+  }
+
+  &.label-success {
+    background-color: @label-success-bg !important;
+  }
+
+  &.label-info {
+    background-color: @label-info-bg !important;
+  }
+
+  &.label-warning {
+    background-color: @label-warning-bg !important;
+  }
+
+  &.label-danger {
+    background-color: @label-danger-bg !important;
+    color: white !important;
+  }
+}
+
+.two-columns {
+ .column-count(2);
+ .column-gap(@grid-gutter-width);
+
+  h1, h2, h3, h4, h5, h6 {
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+
+  .content-block {
+    break-inside: avoid-column;
+    margin-bottom: 1cm;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}

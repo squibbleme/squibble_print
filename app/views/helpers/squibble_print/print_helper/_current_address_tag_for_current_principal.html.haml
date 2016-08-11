@@ -1,0 +1,8 @@
+- cache ['helpers/squibble_print/print/current_address_tag_for_current_principal', current_principal] do
+  %address
+    %strong= current_principal.company.name
+    %br/
+    = current_principal.company.street
+    %br/
+    = current_principal.company.country
+    #{current_principal.company.zip_code} #{current_principal.company.town}

@@ -1,0 +1,54 @@
+ul.classification-list {
+  list-style: none;
+  padding-left: 0;
+
+  li {
+    margin-bottom: 0.2em;
+
+    label {
+      font-weight: 300;
+      margin-bottom: 0;
+
+      &:after {
+        content: ":";
+      }
+    }
+
+    small {
+      position: relative;
+      display: inline-block;
+    }
+
+    ul {
+      list-style: none;
+      padding-left: 20px;
+      margin-bottom: 0;
+    }
+  }
+
+
+  &>li {
+    page-break-inside: avoid;
+    margin-bottom: 1cm;
+
+    &>.header {
+      border-bottom: 1px solid darkgrey;
+      margin-bottom: 10px;
+      font-size: 1.1em;
+
+      text-transform: uppercase;
+
+      small {
+        text-transform: none;
+      }
+    }
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    &>ul {
+      padding-left: 0 !important;
+    }
+  }
+}

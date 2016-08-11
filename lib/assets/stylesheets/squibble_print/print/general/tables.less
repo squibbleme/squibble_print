@@ -1,0 +1,95 @@
+table.table {
+
+  thead tr th.break-all,
+  tbody tr td.break-all {
+    word-break: break-all;
+  }
+
+  thead {
+    tr {
+      th {
+        color: rgba(0, 0, 0, 0.8);
+        font-size: 0.8em;
+      }
+    }
+  }
+
+  tbody {
+    td {
+      word-break: break-all;
+
+      .sq-price {
+        word-break: normal;
+      }
+
+      address, p, ul {
+        &:last-child {
+          margin-bottom: 0;
+        }
+      }
+    }
+  }
+
+  tfoot {
+    tr {
+      td {
+      }
+
+      &.subtotal {
+        td {
+          padding: 2px;
+        }
+      }
+
+      &.total {
+        td {
+          padding-top: 10px;
+
+          &:last-child {
+            border-bottom: 3px solid black;
+            font-size: 1.05em;
+          }
+        }
+      }
+    }
+  }
+
+  &.table-tiny {
+    tfoot.total {
+      tr {
+        &:first-child {
+          td {
+            background-color: #ddd;
+            padding-top: 5px;
+            border-top: 1px solid #999;
+          }
+        }
+      }
+    }
+  }
+
+  &.table-counter-table-rows {
+
+    tbody {
+      counter-reset: rowNumber;
+
+      tr {
+
+        td.counter {
+          text-align: right;
+          counter-increment: rowNumber;
+
+          &:before {
+            content: counter(rowNumber);
+          }
+
+          &.counter-with-hashtag {
+            &:before {
+              content: "#" counter(rowNumber);
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+@import "../custom_bootstrap/custom_import.less";
+// Darstellung von Aktionen im oberen linken Bildbereich, damit
+// Einstellungen oder Verlinkungen innerhalb des Print Dokumentes
+// möglich werden. Diese werden nur am Bildschirm dargestellt.
+
+ul#actions {
+  // Ausblenden für Print
+  @media print {
+    display: none;
+  }
+
+  // Ausblenden für kleinere Darstellungen als @screen-lg
+  @media (max-width: @screen-lg) {
+    display: none;
+  }
+
+
+  position: fixed;
+  top: @grid-gutter-width/2;
+  left: @grid-gutter-width/2;
+  z-index: 100;
+
+  padding-left: 0;
+  width: 300px;
+
+  li {
+    list-style: none;
+    margin-bottom: 5px;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    &.active {
+      a {
+        border-left: 3px solid @brand-primary;
+        border-bottom: 1px solid @brand-primary;
+        background-color: rgba(red(@brand-primary), green(@brand-primary), blue(@brand-primary), 0.05);
+      }
+    }
+
+    a {
+      border-radius: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  }
+}

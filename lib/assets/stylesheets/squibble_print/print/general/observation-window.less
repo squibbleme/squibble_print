@@ -1,0 +1,104 @@
+@import "../custom_bootstrap/custom_import.less";
+
+body {
+  &.observation-window-right {
+    .page {
+      header {
+        .address-container {
+          .address {
+            @media screen {
+              left: 100mm;
+            }
+
+            @media print {
+              margin-left: 130mm;
+            }
+          }
+
+          .additional-information {
+            @media screen {
+              right: 80mm;
+            }
+            @media print {
+              margin-left: -210mm;
+            }
+
+
+
+            dl.dl-right {
+              dt,
+              dd {
+                text-align: left;
+              }
+            }
+          }
+        }
+
+      }
+    }
+  }
+
+  &.observation-window-left {
+    .page {
+      header {
+        .address-container {
+
+          .additional-information {
+            @media screen {
+              left: 19mm;
+            }
+            @media print {
+              margin-left: 50mm;
+            }
+          }
+        }
+
+      }
+    }
+  }
+
+
+  .page {
+    header {
+      .business-print-header {
+        margin: 0;
+      }
+    }
+
+    .address-container {
+      display:            inline-block;
+      min-height:         45mm;
+      width:              100%;
+
+      &>div {
+        position: relative;
+        float: left;
+        min-height:       1px;
+        padding-left: @grid-gutter-width/2;
+        padding-right: @grid-gutter-width/2;
+      }
+
+      .address {
+        padding:          0;
+        width:            80mm;
+        overflow:         hidden;
+
+        ul#sender {
+          margin-left: 0;
+        }
+
+        address {
+          padding-left:   3mm;
+          padding-right:  3mm;
+          margin-bottom:  0;
+        }
+      }
+      .additional-information {
+        width:            80mm;
+        padding:          0;
+        overflow:         hidden;
+      }
+    }
+
+  }
+}
