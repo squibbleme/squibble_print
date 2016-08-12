@@ -6,6 +6,10 @@
 
 ## Integration
 
+### Print Styles
+
+Erstellen des Verzeichnises ```app/assets/stylesheeets/print/custom_bootstrap```
+
 ## Changelog
 
 * 11.08.2016: Init
