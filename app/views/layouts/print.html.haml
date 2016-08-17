@@ -15,6 +15,7 @@
       -# die Formatierung von Preisen über <sq-price value=""></sq-price>
       %meta{ name: 'sq-current-principal-currency-unit', content: current_principal.currency.unit }
 
+    = stylesheet_link_tag :general, media: :all, :'data-turbolinks-track' => true
     = stylesheet_link_tag :print, media: :all, :'data-turbolinks-track' => true
 
     = javascript_include_tag :general, :'data-turbolinks-track' => true
