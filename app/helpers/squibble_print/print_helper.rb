@@ -1,9 +1,9 @@
 module SquibblePrint::PrintHelper
   def print_business_header(principal = nil)
-    #Rails.cache.fetch [ 'PrintHelper.print_business_header', principal ] do
+    Rails.cache.fetch [ 'PrintHelper.print_business_header', principal ] do
       render partial: 'helpers/squibble_print/print_helper/print_business_header',
              locals: { principal: principal }
-    #end
+    end
   end
 
   def print_business_sender(resource = nil)
