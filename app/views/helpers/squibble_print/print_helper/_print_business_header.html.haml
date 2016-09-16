@@ -6,4 +6,4 @@
 - cache ['helpers-print-print-business-header', principal] do
   .row.business-print-header
     .col-xs-4.col-xs-offset-8
-      = image_tag( principal.logo, class: 'img-responsive logo', alt: principal.name, title: principal.name )
+      = image_tag( principal.module_setting_logo.decorate.print_path, class: 'img-responsive logo', alt: principal.name, title: principal.name )
