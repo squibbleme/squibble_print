@@ -21,15 +21,16 @@
     = javascript_include_tag :general, :'data-turbolinks-track' => true, debug: false
     = javascript_include_tag :print, :'data-turbolinks-track' => true, debug: false
 
-    - cache [ :admin, :custom_styles, current_principal, current_font ] do
+    - cache [ :admin, :custom_styles, current_principal ] do
+      = stylesheet_link_tag current_principal.module_setting_print.decorate.current_font.link_href, media: :all
+
+      - if current_principal.module_setting_print.decorate.current_heading_font.present?
+        = stylesheet_link_tag current_principal.module_setting_print.decorate.current_heading_font.link_href, media: :all
+
       -# Einbinden der Schriftart
       -#
       :css
-        @import url(#{current_font.link_href});
-        body {
-          font-family: #{current_font.label}, #{current_font.category};
-        }
-
+        #{current_principal.module_setting_print.decorate.css_font_code}
         #{current_principal.module_setting_print.additional_styles}
 
 %body{ class: ( current_principal.module_setting_print.observation_window == :right ? 'observation-window-right' : 'observation-window-left' ) }
