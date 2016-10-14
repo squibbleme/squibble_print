@@ -15,10 +15,10 @@
       -# die Formatierung von Preisen über <sq-price value=""></sq-price>
       %meta{ name: 'sq-current-principal-currency-unit', content: current_principal.currency.unit }
 
-    = stylesheet_link_tag :general, media: :all, :'data-turbolinks-track' => true, debug: false
+    = stylesheet_link_tag :'squibble_basics/application', media: :all, :'data-turbolinks-track' => :reload, debug: false
     = stylesheet_link_tag :print, media: :all, :'data-turbolinks-track' => true, debug: false
 
-    = javascript_include_tag :general, :'data-turbolinks-track' => true, debug: false
+    = javascript_include_tag :'squibble_basics/application', :'data-turbolinks-track' => :reload, debug: false
     = javascript_include_tag :print, :'data-turbolinks-track' => true, debug: false
 
     - cache [ :admin, :custom_styles, current_principal ] do
